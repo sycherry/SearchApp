@@ -1,21 +1,32 @@
-# Messari Interview Challenege
+# React Native Search App
 
-## Built with
+Simple search app utilizing React Native to design and create🌈
 
-- Create React App
-- MUI
-- Redux + Redux Toolkit
-- Nivo Charts
+## Features
 
-## Installation and run
+- Main tech stack: React Native, TypeScript, Redux, react-navigation (stack navigation)
+- Design: React Native Elements
+- Users search a item and add it
 
-### Create `.env` file and add variable with messari api key:
+## Getting started
 
-`REACT_APP_MESSARI_API=<messari_api_key>`
+- Install [Node.js](https://nodejs.org/en/download/) and [NVM](https://github.com/nvm-sh/nvm#installing-and-updating)
+- Fork/Clone this project
+- Run `nvm use 16` (✅Please use **node 16**)
+- Run `npm i` (will install the dependencies)
+- Run `npx react-native start`
 
-### Installation: `npm install` or `yarn`
+## Screenshot
 
-### To Run: `npm run start` or `yarn start`
+<p>Home screen</p>
+<img src="/assets/screenshot1.png" alt="authentication screen" width="300" height="auto"/>
+<p>ItemList screen</p>
+<img src="/assets/screenshot2.png" alt="passcord screen" width="300" height="auto"/>
 
-## Hosted @ https://messari-chart.vercel.app/
-# SearchApp
+## Support
+
+Create an issue in the Github repository
+
+## Authors
+GitHub @sycherry
+Messari api: https://messari.io/api/docs
