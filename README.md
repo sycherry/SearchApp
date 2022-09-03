@@ -15,6 +15,8 @@ Simple search app utilizing React Native to design and create🌈
 - Run `nvm use 16` (✅Please use **node 16**)
 - Run `npm i` (will install the dependencies)
 - Run `npx react-native start`
+- Run ios `npx react-native run-ios`
+- Run android `npx react-native run-android`
 
 ## Screenshot
 
